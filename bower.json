@@ -1,0 +1,22 @@
+{
+  "name": "client-scripts",
+  "version": "0.0.0",
+  "homepage": "https://github.com/storjarn/client-scripts",
+  "authors": [
+    "Christopher Maples <cmaples77@gmail.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
